@@ -285,8 +285,3 @@ No external dependencies are required.
 | Output | 17-digit scientific notation |
 
 ---
-
-<p align="center">
-  <b>The geometry tells us where to move.</b><br>
-  <b>The spectrum tells us when the dynamics change.</b>
-</p>
